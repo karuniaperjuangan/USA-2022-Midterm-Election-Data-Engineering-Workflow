@@ -2,3 +2,7 @@ snscrape
 tqdm
 pandas
 numpy
+xgboost
+bs4
+textblob
+nltk
