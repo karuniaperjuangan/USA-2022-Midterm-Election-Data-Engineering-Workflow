@@ -1,0 +1,4 @@
+snscrape
+tqdm
+pandas
+numpy
