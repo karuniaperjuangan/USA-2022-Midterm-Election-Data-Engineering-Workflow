@@ -6,3 +6,4 @@ xgboost
 bs4
 textblob
 nltk
+scikit-learn
